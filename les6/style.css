@@ -1,0 +1,27 @@
+text{
+    text-decoration: none;
+    list-style: none;
+    font-style: normal;
+    box-sizing: border-box;
+    }
+span{
+    display: inline-block;
+    color: purple;
+    margin: 50px;
+    border: 3px dashed black;
+    
+}
+p{
+    border: 1px solid green;
+    margin: 20px;
+}
+div{
+    background-color: yellow;
+    color: aqua;
+    height: 200px;
+    width: 200px;
+    /*padding: 20px;*/
+    margin: 20px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    padding: 20px top, left;}
